@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Weather App</title>
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <link rel="stylesheet" href="accu.css">
+        
+        
+    </head>
+
+    <body>
+        <div class="main-header">
+            <img src="https://icons.iconarchive.com/icons/dtafalonso/win-10x/128/Weather-icon.png" alt="weather icon">
+            <h1>Weather App</h1>
+            <div class="navbar">
+                <a href="#"><i class="fas fa-home"></i> </a>
+                <a href="#"><i class="fas fa-search"></i> </a>
+                <a href="about.html"><i class="fas fa-info-circle"></i> </a>
+                <a href="#" id="contact-link"><i class="fas fa-envelope"></i> </a>
+            </div>
+        </div>
+
+        <div id="locationFormContainer">
+            <form id="locationForm">
+                <label for="location">Enter Location</label>
+                <br>
+                <input type="text" id="location" required>
+                <br>
+                <button type="submit">Get Weather</button>
+            </form>
+        </div>
+
+        <div class="main-container">
+            <div class="side-by-side">
+                <div id="imageContainer">
+                    <div id="dayNightImage"></div>
+                    <div id="weatherIconContainer">
+                        <img id="weatherIcon" src="images/01-s.png" alt="Weather Icon">
+                    </div>
+                </div>
+                <div id="weatherInfo"></div>
+            </div>
+        </div>
+        <footer>
+            <div class="footer-content">
+                <p>&copy; 2023 Weather App. All rights reserved.</p>
+                <div class="social-icons">
+                    <a href="https://web.facebook.com/areeba.sattar.988/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://github.com/AreebaSattar"><i class="fab fa-github"></i></a>
+                    <a href="https://www.instagram.com/ariba.s23/"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/areeba-sattar/"><i class="fab fa-linkedin"></i></a>
+                </div>
+            </div>
+        </footer>
+        <script src="accu.js"></script>
+    </body>
+</html>
