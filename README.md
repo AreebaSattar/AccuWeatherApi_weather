@@ -34,8 +34,8 @@ Welcome to the Weather App, a simple and stylish web application that provides r
 
 ## Screenshots 📸
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/screenshot1.PNG)
+![Screenshot 2](screenshots/screenshot2.PNG)
 
 ## Contact 📧
 
@@ -54,4 +54,3 @@ For any questions or feedback, please feel free to reach out to the developer:
 ## Acknowledgements 🙌
 
 - Icon made by [dtafalonso](https://www.iconarchive.com/artist/dtafalonso.html) from [IconArchive](https://www.iconarchive.com/)
-- Weather icons designed by [Tania Raskalova](https://www.behance.net/gallery/78333311/Weather-icons)
