@@ -35,10 +35,10 @@ Welcome to the Weather App, a simple and stylish web application that provides r
 ## Screenshots 📸
 
 
-![Screenshot 1](screenshots/screenshot1.jpeg)
-
-
 ![Screenshot 2](screenshots/screenshot2.jpeg)
+
+
+![Screenshot 1](screenshots/screenshot1.jpeg)
 
 
 ## Contact 📧
