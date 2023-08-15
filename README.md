@@ -35,13 +35,13 @@ Welcome to the Weather App, a simple and stylish web application that provides r
 ## Screenshots 📸
 
 <div align="center">
-  <p>Enjoy editing images with this simple and intuitive image editor!</p>
-  <img src="(screenshots/screenshot2.jpeg" alt="Screenshot2" width="70%">
+  <p>Main Page!</p>
+  <img src="screenshots/screenshot2.jpeg" alt="Screenshot2" width="70%">
 </div>
 
 <div align="center">
-  <p>Enjoy editing images with this simple and intuitive image editor!</p>
-  <img src="(screenshots/screenshot1.jpeg" alt="Screenshot1" width="70%">
+  <p>About Page!</p>
+  <img src="screenshots/screenshot1.jpeg" alt="Screenshot1" width="70%">
 </div>
 
 ## Contact 📧
