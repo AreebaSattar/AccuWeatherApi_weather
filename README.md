@@ -46,7 +46,7 @@ Welcome to the Weather App, a simple and stylish web application that provides r
 
 ## Contact 📧
 
-For any questions or feedback, please feel free to reach out to the developer:
+For any questions or feedback, please feel free to reach out to me:
 
 - Email: [areebasattar23@gmail.com](mailto:areebasattar23@gmail.com)
 - Facebook: [areeba.sattar.988](https://web.facebook.com/areeba.sattar.988/)
