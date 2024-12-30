@@ -2,6 +2,9 @@
 
 Welcome to the Weather App, a simple and stylish web application that provides real-time weather information for your desired location. With a visually appealing interface and dynamic features, this app offers an engaging way to stay updated on weather conditions. 🌤️
 
+## Live Demo
+Check out the live version of the project here: [Accu Weather App](https://accu-weather-api-weather-app.vercel.app/)
+
 ## Features ✨
 
 - 🏞️ User-friendly interface with an attractive design.
